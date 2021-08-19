@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: pink;
     margin: 15px;
 }
 
@@ -13,3 +13,6 @@ p {
     color: green;
     font-size: 18px;
 }
+
+span {
+    color: yellow;
